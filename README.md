@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Скиппи</h1>
 <h3 align="center">Начинающий программист/веб-разработчик из России</h3>
 
-<p align="left"> <img src ="https://komarev.com/ghpvc/?username=sk1ppyyy&label=Profile%20views&color=0e75b6&style=flat" alt="sk1ppyyy" /> </p>
+
 
 - 🔭 Сейчас я работаю над **Neptuncode**
 
@@ -9,7 +9,7 @@
 
 - 📫 Как со мной связаться **neptunsk1y.labs@list.ru**
 
-<h3 align="left">Свяжитесь со мной:</h3>
+< h3  align = "left" > свяжитесь со мной: </ h3 >
 <p align= "left">
 </p>
 
