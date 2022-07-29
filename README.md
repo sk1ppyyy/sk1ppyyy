@@ -9,7 +9,7 @@
 
 - 📫 Как со мной связаться **neptunsk1y.labs@list.ru**
 
-< h3  align = "left" > свяжитесь со мной: </ h3 >
+
 
 
 
